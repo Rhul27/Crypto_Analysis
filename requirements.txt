@@ -1,0 +1,9 @@
+streamlit
+requests
+textblob
+plotly
+pandas
+wordcloud
+matplotlib
+scikit-learn
+numpy
